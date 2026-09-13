@@ -1,0 +1,17 @@
+{
+  "name": "MEHR",
+  "short_name": "MEHR",
+  "description": "Pakistani fashion house — hand-embroidered womenswear, pit-loom shawls and childrenswear.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F3EFE6",
+  "theme_color": "#F7F3EA",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
